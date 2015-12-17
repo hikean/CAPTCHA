@@ -1,7 +1,0 @@
-表名字段values值值
-表名where条件
-表名set字段值where条件
-查询字段EROM表名WHERE条件
-主机用户名密码
-打开数据库连接标识符
-使用GBK中文编码
